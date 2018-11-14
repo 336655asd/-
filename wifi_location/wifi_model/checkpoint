@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\wifi_model\wifi_location.ckpt"
+all_model_checkpoint_paths: "D:\wifi_model\wifi_location.ckpt"
